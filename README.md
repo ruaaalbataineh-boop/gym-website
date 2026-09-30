@@ -4,7 +4,7 @@ A modern, responsive, and interactive fitness website built using **HTML5, CSS3,
 
 
 🔗 **Repository:** [gym-website Repository](https://github.com/ruaaalbataineh-boop/gym-website)
->>>>>>> 4e9a441be92c6af762bd1276966f4b362bf39be4
+
 
 ---
 
@@ -95,43 +95,49 @@ Pulse-Fitness/
 
 ### ✨ Features
 
-<<<<<<< HEAD
-![Features](screenshots/Features.png)
-=======
+
 ![Features](screenshots/features.png)
->>>>>>> 4e9a441be92c6af762bd1276966f4b362bf39be4
+
 
 ### ℹ️ About
 
 ![About](screenshots/About.png)
 
+
 ### 🏋️ Classes
 
 ![Classes](screenshots/Classes.png)
+
 
 ### 👥 Trainers
 
 ![Trainers](screenshots/Trainers.png)
 
+
 ### 🖼️ Gallery
 
 ![Gallery](screenshots/Gallery.png)
+
 
 ### ⭐ Testimonials
 
 ![Testimonials](screenshots/Testimonials.png)
 
+
 ### 💳 Membership
 
 ![Membership](screenshots/Membership.png)
+
 
 ### 📅 Schedule
 
 ![Schedule](screenshots/Schedule.png)
 
+
 ### 📩 Contact
 
 ![Contact](screenshots/Contact.png)
+
 
 ### 🔻 Footer
 
