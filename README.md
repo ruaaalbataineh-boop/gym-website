@@ -93,7 +93,7 @@ Pulse-Fitness/
 
 ### ✨ Features
 
-![Features](screenshots/features.png)
+![Features](pp/features.png)
 
 ### ℹ️ About
 
