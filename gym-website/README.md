@@ -2,7 +2,7 @@
 
 A modern, responsive, and interactive fitness website built using **HTML5, CSS3, and Vanilla JavaScript**.
 
-🔗 **Repository:** [Pulse Fitness Repository](https://github.com/ruaaalbataineh-boop/Pulse-Fitness)
+🔗 **Repository:** [gym-website Repository](https://github.com/ruaaalbataineh-boop/gym-website)
 
 ---
 
