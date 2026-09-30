@@ -58,7 +58,7 @@ nav ul{
 
      display: flex;
     list-style: none;
-    gap: 30px;   /*==== بترك مسافه بين كل عنصر ===*/
+    gap: 30px;  
 
 }
 nav ul li a{
@@ -79,7 +79,7 @@ nav button{
     padding: 12px 24px;
     border-radius: 8px;
     font-size: 1rem;
-    cursor: pointer;  /* عند المرور بالماوس تظهر اليد */ 
+    cursor: pointer;  
     transition: 0.3s;
 }
 
@@ -170,7 +170,7 @@ nav button:hover{
     gap: 15px;
 }
 
-/* زر أساسي */
+
 .btn-primary{
     background-color: var(--primary-color);
     color: var(--white);
@@ -187,7 +187,7 @@ nav button:hover{
     transform: translateY(-3px);
 }
 
-/* زر ثاني */
+
 .btn-outline{
     background: transparent;
     border: 2px solid var(--primary-color);
@@ -811,7 +811,7 @@ nav button:hover{
 
 }
 
-/* أول صورة أكبر */
+
 
 .gallery-card:first-child{
 
@@ -1272,7 +1272,7 @@ nav button:hover{
     position: relative;
 }
 
-/* خط بسيط تحت العنوان */
+
 .contact h2::after{
     content: "";
     width: 70px;
@@ -1289,7 +1289,7 @@ nav button:hover{
     display: flex;
     justify-content: space-between;
     gap: 50px;
-    flex-wrap: wrap; /* مهم للـ responsive */
+    flex-wrap: wrap;
 }
 
 /* cards */
@@ -1399,7 +1399,7 @@ nav button:hover{
 
 
 /* =========================
-   SOURCE DISPLAY - عرض المصدر في الفورم
+   SOURCE DISPLAY - 
 ========================= */
 
 .source-display {
@@ -1434,7 +1434,7 @@ nav button:hover{
     font-weight: 700;
 }
 
-/* تنسيق مختلف للمصادر المختلفة */
+
 .source-display.trainer {
     background: #eff6ff;
     border-left-color: #3b82f6;
